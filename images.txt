@@ -5,4 +5,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #plexinc/pms-docker:1.40.5.8897-e5987a19d
-cym1102/nginxwebui:4.3.2
+plexinc/pms-docker:1.41.8.9834-071366d65
